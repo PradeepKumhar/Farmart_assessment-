@@ -1,0 +1,10 @@
+2025-02-26 11:38:36,336 - INFO - Started extracting logs for date: 2024-12-01
+2025-02-26 11:38:36,337 - ERROR - Log file 'logfile.txt' not found.
+2025-02-26 11:39:15,761 - INFO - Started extracting logs for date: 2024-12-01\
+2025-02-26 11:39:15,761 - ERROR - Log file 'logfile.txt' not found.
+2025-02-26 11:39:17,418 - INFO - Started extracting logs for date: 2024-12-01\
+2025-02-26 11:39:17,418 - ERROR - Log file 'logfile.txt' not found.
+2025-02-26 11:43:26,743 - INFO - Started extracting logs for date: 2024-12-01\
+2025-02-26 11:43:26,744 - ERROR - Log file 'src/logfile.text' not found.
+2025-02-26 11:43:31,265 - INFO - Started extracting logs for date: 2024-12-01
+2025-02-26 11:43:54,499 - INFO - Successfully extracted 226025 log entries for 2024-12-01
